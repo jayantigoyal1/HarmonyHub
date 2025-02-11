@@ -1,2 +1,2 @@
 # HarmonyHub
-HarmonyHub is a community-driven platform connecting members through stories, news, and networking opportunities.
+A website that aims to unite diverse communities and foster shared peace and harmony across the globe
